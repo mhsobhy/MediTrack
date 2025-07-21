@@ -1,0 +1,15 @@
+# Root level gitignore
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Environment files (use examples instead)
+.env
+.env.local
